@@ -10,4 +10,4 @@
 
 Описание: https://github.com/pave-lkha/qubic_multi_switch/wiki
 
-TG [miner_multi_switch](https://t.me/miner_multi_switch)
+Telegram: [miner_multi_switch](https://t.me/miner_multi_switch)
